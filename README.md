@@ -1,5 +1,5 @@
 # Machine-Learning-Helpbook:For beginners to advance algorithms
-
+![Intro](https://expertsystem.com/wp-content/uploads/2017/03/machine-learning-definition.jpeg)
 # Welcome to the Machine Learning HelpBook
 
 #### So throught this repo I am going to briefly describe the steps and provide resources for absolute beginners to develop an understanding towards machine learning.
