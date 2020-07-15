@@ -25,6 +25,11 @@
 The process of learning begins with observations or data, such as examples, direct experience, or instruction, in order to look for patterns in data and make better decisions in the future based on the examples that we provide. The primary aim is to allow the computers learn automatically without human intervention or assistance and adjust actions accordingly.
    [Reference to Machine Learning](https://en.wikipedia.org/wiki/Machine_learning)
 
+**“A computer program is said to learn from experience E with respect to some task T and some performance measure P, if its performance on T, as measured by P, improves with experience E.”**
+      by: Tom Mitchell
+
+
+
 ## Aplications of Machine Learning in Our day to day life
 #### Following are some of the applications of Machine Learning around us:
 
