@@ -29,4 +29,4 @@
    * Supervised Learning : [Link](https://github.com/Mystery01092000/Machine-Learning-Helpbook/blob/master/Types/Supervised_Learning.md)
    * Unsupervised Learning : [Link](https://github.com/Mystery01092000/Machine-Learning-Helpbook/blob/master/Types/Unsupervised-Learning)
    * Reinforcement Learning : [Link](https://github.com/Mystery01092000/Machine-Learning-Helpbook/blob/master/Types/Reinforcement-Learning)
-                                 Other: [Other](https://github.com/Mystery01092000/Machine-Learning-Helpbook/blob/master/Types/Theory.md)
+             Other: [Other](https://github.com/Mystery01092000/Machine-Learning-Helpbook/blob/master/Types/Theory.md)
